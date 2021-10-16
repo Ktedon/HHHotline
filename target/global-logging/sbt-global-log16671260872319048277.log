@@ -1,0 +1,23 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(__runWatch console0, Some(55ce5069-db8d-4a9d-9e14-a1b728082002), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(sbtStashOnFailure, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(__preWatch console0, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(fastOptJS, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / fastOptJS[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/bradly/Desktop/ehsgovsite/target/scala-2.13/classes ...[0m
+[0m[[0m[31merror[0m] [0m[0m/home/bradly/Desktop/ehsgovsite/src/main/scala/bloks/WebSocket/WS.scala:31:36: overloaded method send with alternatives:[0m
+[0m[[0m[31merror[0m] [0m[0m  (data: scala.scalajs.js.typedarray.ArrayBuffer)Unit <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  (data: org.scalajs.dom.raw.Blob)Unit <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  (data: String)Unit[0m
+[0m[[0m[31merror[0m] [0m[0m cannot be applied to (io.circe.Json)[0m
+[0m[[0m[31merror[0m] [0m[0m  socket.onopen = (event => socket.send(new Request(icon.toString, "New User Connected!").getJson))[0m
+[0m[[0m[31merror[0m] [0m[0m                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[0mdebug[0m] [0m[0mGlobal IR cache stats: reused: 0 -- invalidated: 0 -- trees read: 0[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 0 s, completed Sep 11, 2021, 12:29:33 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(resumeFromFailure, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(sbtPopOnFailure, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(__postWatch console0, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(resumeFromFailure, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(__waitWatch console0, None, None)[0m

@@ -1,0 +1,22 @@
+[0m[[0m[0minfo[0m] [0m[0mFast optimizing /home/bradly/Desktop/ehsgovsite/target/scala-2.13/ehsgovsite-fastopt[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: Compute reachability: 81963 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: Assemble LinkedClasses: 12195 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: 142854 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Batch mode: false[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Incremental part: 25453 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Optimizing 302 methods.[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Optimizer part: 99302 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: 128238 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: Compute reachability: 44520 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: Assemble LinkedClasses: 4257 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: 53514 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: Calculate Dependency Info: 545 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: Analyze Modules: 132 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: Assemble Modules: 869 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: 1644 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Generate Classes: 49845 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Write trees: 2387 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Class tree cache stats: reused: 938 -- invalidated: 9[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Method tree cache stats: reused: 3286 -- invalidated: 233[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: 60542 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mBasicBackend: Write result: 174169 us[0m

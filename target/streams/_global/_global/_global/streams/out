@@ -1,0 +1,13 @@
+[0m[[0m[0minfo[0m] [0m[0mBuilding webpack library bundles for ehsgovsite-fastopt in /home/bradly/Desktop/ehsgovsite/target/streams/_global/_global/_global/streams/fastOptJS-webpack-libraries[0m
+[0m[[0m[0minfo[0m] [0m[0mWriting scalajs.webpack.config.js[0m
+[0m[[0m[0mdebug[0m] [0m[0mCommand: node /home/bradly/Desktop/ehsgovsite/target/scala-2.13/scalajs-bundler/main/node_modules/webpack/bin/webpack --bail --profile --json --config /home/bradly/Desktop/ehsgovsite/target/scala-2.13/scalajs-bundler/main/webpack-fastopt.config.js[0m
+[0m[[0m[0minfo[0m] [0m[0mVersion: 4.44.2[0m
+[0m[[0m[0minfo[0m] [0m[0mHash: 1bdc398735bc1fc166c2[0m
+[0m[[0m[0minfo[0m] [0m[0mTime: 1795ms[0m
+[0m[[0m[0minfo[0m] [0m[0mPath: /home/bradly/Desktop/ehsgovsite/target/scala-2.13/scalajs-bundler/main/dist[0m
+[0m[[0m[0minfo[0m] [0m[0mBuilt at 2021-09-11T16:12:28.333444[0m
+[0m[[0m[0minfo[0m] [0m[0m                Asset      Size                             Chunks[0m
+[0m[[0m[0minfo[0m] [0m[0mehsgovsite-fastopt.js   6682151   [emitted]   [ehsgovsite-fastopt][0m
+[0m[[0m[0minfo[0m] [0m[0m          favicon.ico      3870   [emitted]                     [][0m
+[0m[[0m[0minfo[0m] [0m[0m           index.html      1707   [emitted]                     [][0m
+[0m[[0m[0minfo[0m] [0m[0m        manifest.json       317   [emitted]                     [][0m
